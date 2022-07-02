@@ -35,12 +35,12 @@ int main(void)
 				putchar(l_d2);
 
 				if (c != 98)
-                		{
+				{
 					putchar(',');
 					putchar(' ');
 				}
 			}
-                        c2++;
+			c2++;
 		}
 		c++;
 	}
